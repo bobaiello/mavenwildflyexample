@@ -34,6 +34,9 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
         </license>
     </licenses>
+    <scm>
+      <developerConnection>scm:git:https://github.com/bobaiello/mavenwildflyexample.git</developerConnection>
+    </scm>
 
     <properties>
         <!-- Explicitly declaring the source encoding eliminates the following 
@@ -57,6 +60,12 @@
         <!-- maven-compiler-plugin -->
         <maven.compiler.target>1.7</maven.compiler.target>
         <maven.compiler.source>1.7</maven.compiler.source>
+        <project.scm.id>myID</project.scm.id>
+        <server>
+          <id>myID<id>
+          <username>bobaiello</username>
+          <password>xxx</password>
+        </server>
     </properties>
 
 
