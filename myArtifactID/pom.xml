@@ -226,7 +226,7 @@
                       <manifestEntries>
                           <Implementation-Build>3.2.1</Implementation-Build>
                           <name>AwesomeCode</name>
-                          <ReleaseID>7.7.7.7</ReleaseID>
+                          <ReleaseID>3.2.1</ReleaseID>
                       </manifestEntries>
                     </archive>
                 </configuration>
