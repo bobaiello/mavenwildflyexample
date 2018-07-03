@@ -219,14 +219,14 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <archive>
                       <manifest>
-                        <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                        <!-- addDefaultImplementationEntries>true</addDefaultImplementationEntries -->
                         <!-- addDefaultSpecificationEntries>true</addDefaultSpecificationEntries -->
-                        <addClasspath>true</addClasspath>
+                        <!-- addClasspath>true</addClasspath -->
                       </manifest>
                       <manifestEntries>
-                          <Implementation-Build>7.7.7.7</Implementation-Build>
-                          <name>mybar</name>
-                          <id>nice bar</id>
+                          <Implementation-Build>3.2.1</Implementation-Build>
+                          <name>AwesomeCode</name>
+                          <ReleaseID>7.7.7.7</ReleaseID>
                       </manifestEntries>
                     </archive>
                 </configuration>
