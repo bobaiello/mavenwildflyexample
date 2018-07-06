@@ -1,6 +1,9 @@
 #Bob Aiello
 ### We create a simply WAR file using a maven archetype 
 
+$ mvn archetype:generate
+
+### We select the archetype that generates a starter Java EE 7 application that can run in wildfly
 ### remote -> org.wildfly.archetype:wildfly-javaee7-webapp-archetype (An archetype that generates a starter Java EE 7 webapp project for JBoss Wildfly)
  
 ```
